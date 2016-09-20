@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryAnimalSlide_2", "DictionaryAnimalSlide_2\DictionaryAnimalSlide_2.csproj", "{0EC07F4E-0F6F-473A-9DA6-640F9FA7AE60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EC07F4E-0F6F-473A-9DA6-640F9FA7AE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC07F4E-0F6F-473A-9DA6-640F9FA7AE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC07F4E-0F6F-473A-9DA6-640F9FA7AE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC07F4E-0F6F-473A-9DA6-640F9FA7AE60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

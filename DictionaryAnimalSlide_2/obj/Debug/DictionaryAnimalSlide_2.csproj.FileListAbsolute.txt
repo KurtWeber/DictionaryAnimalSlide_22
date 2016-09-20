@@ -4,3 +4,9 @@ c:\users\owner\documents\visual studio 2015\Projects\DictionaryAnimalSlide_2\Dic
 c:\users\owner\documents\visual studio 2015\Projects\DictionaryAnimalSlide_2\DictionaryAnimalSlide_2\obj\Debug\DictionaryAnimalSlide_2.csprojResolveAssemblyReference.cache
 c:\users\owner\documents\visual studio 2015\Projects\DictionaryAnimalSlide_2\DictionaryAnimalSlide_2\obj\Debug\DictionaryAnimalSlide_2.exe
 c:\users\owner\documents\visual studio 2015\Projects\DictionaryAnimalSlide_2\DictionaryAnimalSlide_2\obj\Debug\DictionaryAnimalSlide_2.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DictionaryAnimalSlide_22\DictionaryAnimalSlide_2\bin\Debug\DictionaryAnimalSlide_2.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DictionaryAnimalSlide_22\DictionaryAnimalSlide_2\obj\Debug\DictionaryAnimalSlide_2.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DictionaryAnimalSlide_22\DictionaryAnimalSlide_2\obj\Debug\DictionaryAnimalSlide_2.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DictionaryAnimalSlide_22\DictionaryAnimalSlide_2\bin\Debug\DictionaryAnimalSlide_2.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DictionaryAnimalSlide_22\DictionaryAnimalSlide_2\bin\Debug\DictionaryAnimalSlide_2.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DictionaryAnimalSlide_22\DictionaryAnimalSlide_2\obj\Debug\DictionaryAnimalSlide_2.csprojResolveAssemblyReference.cache
